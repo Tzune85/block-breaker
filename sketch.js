@@ -22,11 +22,11 @@ let ironContainer    = document.getElementById(iron)
 let restartButton    = document.getElementById("restart")
 let activeContainer  = grassContainer;
 
-let grassToCollect   = 12
-let dirtToCollect    = 6
-let stoneToCollect   = 3
-let ironToCollect    = 2
-let diamondToCollect = 1
+let grassToCollect   = 128
+let dirtToCollect    = 64
+let stoneToCollect   = 32
+let ironToCollect    = 16
+let diamondToCollect = 8
 
 
 let skyColor     = [0,0,120]
