@@ -61,3 +61,18 @@ canvas {
   border: 5px solid rgb(255, 139, 61);
   box-shadow: 0 0 10px rgb(255, 139, 61);
 }
+
+.index {
+  font-size: x-large; 
+  padding: 200px; 
+  text-align: center;
+  background-color: rgba(238, 218, 173, 0.845);
+  font-family: monospace;  
+  margin: 50px;
+}
+
+.list {
+  border: #000;
+  border-style:dashed;
+  border-width: 2px;
+}
