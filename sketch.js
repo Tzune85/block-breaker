@@ -29,7 +29,7 @@ let ironToCollect    = 16
 let diamondToCollect = 8
 
 
-let skyColor     = [0,0,120]
+let skyColor     = [0,127,255]
 let grassColor   = [0,180,0]
 let dirtColor    = [115,118,83]
 let stoneColor   = [58,50,50]
