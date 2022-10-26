@@ -76,3 +76,7 @@ canvas {
   border-style:dashed;
   border-width: 2px;
 }
+
+.body {
+  background-color: #000;
+}
